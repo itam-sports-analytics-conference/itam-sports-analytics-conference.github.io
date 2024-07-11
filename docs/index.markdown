@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 # ITAM Sports Analytics Conference 2024
-[](https://github.com/itam-sports-analytics-conference/itam-sports-analytics-conference.github.io/blob/main/docs/images/logo_png.jpeg?raw=true)
+<img title="a title" alt="Alt text" src="https://github.com/itam-sports-analytics-conference/itam-sports-analytics-conference.github.io/blob/main/docs/images/logo_png.jpeg?raw=true">
 ## The future of sports, powered by data
 
 ### About the Conference
