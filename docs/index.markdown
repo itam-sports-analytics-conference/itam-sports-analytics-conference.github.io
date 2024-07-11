@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 # ITAM Sports Analytics Conference 2024
-[](/docs/_site/images/logo_png.jpeg)
+[](images/logo_png.jpeg)
 ## The future of sports, powered by data
 
 ### About the Conference
