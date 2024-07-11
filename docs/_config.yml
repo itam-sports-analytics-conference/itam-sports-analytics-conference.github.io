@@ -29,6 +29,8 @@ github_username:  itam-sports-analytics-conference
 
 # Build settings
 theme: minima
+# Build settings
+markdown: kramdown
 plugins:
   - jekyll-feed
 
