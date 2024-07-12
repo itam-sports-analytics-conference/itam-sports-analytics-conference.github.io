@@ -12,9 +12,9 @@ title: ""
 ---
 The ITAM Sports Analytics Conference aspires to be the **foremost sports analytics event in Latin America**, pioneering innovation, insights, and unparalleled networking opportunities in the region.
 
-Our mission is to ignite innovation and foster collaboration within the sports analytics, creating a dynamic community of experts, students, and industry leaders to share insights, explore advancements, and drive the future of sports in Latin America.
+Our mission is to ignite innovation and foster collaboration within sports analytics, creating a dynamic community of experts, students, and industry leaders to share insights, explore advancements, and **drive the future of sports** in Latin America.
 
-We are excited to welcome and collaborate with elite organizations from around the globe 🌎
+**We are excited to welcome and collaborate with elite organizations from around the globe.** 
 
 <div style="text-align: center;">
   <img src="/images/partners.jpeg" alt="Logo" width="100%" height="100%">
