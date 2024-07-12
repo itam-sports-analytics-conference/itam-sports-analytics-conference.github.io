@@ -4,4 +4,4 @@ title: "Speakers"
 permalink: /speakers/
 ---
 
-Speaker info coming soon!
+**Speaker info coming soon!** 👀
