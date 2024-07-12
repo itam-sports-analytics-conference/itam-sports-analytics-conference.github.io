@@ -10,7 +10,7 @@ Compete for $10,000 MXN in total prizes and a chance to present on stage at ITAM
 <button name="registerbutton" onclick="http://www.google.com">REGISTER FOR THE HACKATHON</button>
 
 
- <img src="https://github.com/pablolopez2733/Aztec-Data-Summit/blob/main/img/azds_logo_bg.png?raw=true" alt="Logo" width="30%" height="30%"> 
+ <img src="https://github.com/itam-sports-analytics-conference/itam-sports-analytics-conference.github.io/blob/main/docs/images/official_logo_vectores.png?raw=true" alt="Logo" width="30%" height="30%"> 
 
 
 ## Overview 💻 
