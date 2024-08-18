@@ -9,14 +9,13 @@ permalink: /schedule/
     <img src="https://github.com/itam-sports-analytics-conference/itam-sports-analytics-conference.github.io/blob/main/docs/images/official_logo_vectores.png?raw=true" alt="Logo" width="60%" height="60%">
     <br>
 </div>
-La 2ª edición de la ITAM Sports Analytics Conference se llevará a cabo el 6 y 7 de noviembre en el campus Río Hondo del ITAM en la Ciudad de México.
+La 2ª edición de la ITAM Sports Analytics Conference se llevará a cabo el **6 y 7 de noviembre** en el campus Río Hondo del ITAM en la Ciudad de México.
 
-El evento comenzará el 6 de noviembre alrededor de las 4 pm con un cóctel de networking, donde se presentarán las propuestas finalistas de nuestro hackathon de fútbol. La conferencia principal se llevará a cabo al día siguiente, con charlas y sesiones programadas desde las 10 am hasta las 5 pm.
+El evento comenzará el 6 de noviembre alrededor de las 3 pm con un cóctel de networking, donde los tres proyectos finalistas de nuestro hackathon de futbol tendrán la oportunidad de presentar en vivo sus soluciones. La conferencia principal se llevará a cabo al día siguiente, con charlas y sesiones programadas desde las 10 am hasta las 5 pm.
 
 <hr>
 
 ## Dia 1: Final Three Hackathon + Coctel
-En este evento, los tres proyectos finalistas de nuestro hackathon tendrán la oportunidad de presentar en vivo sus soluciones. ¡No te pierdas la revelación del ganador, que será anunciada durante la conferencia al día siguiente!
 
 | **Hora**       | **Actividad**                     |
 |----------------|-----------------------------------|
@@ -48,5 +47,7 @@ En este evento, los tres proyectos finalistas de nuestro hackathon tendrán la o
 ---
 
 El ITAM está ubicado en la parte sur de la ciudad y es fácilmente accesible en coche. Recomendamos usar Uber o conducir hasta el evento, ya que las opciones de transporte público pueden ser limitadas. Si decides conducir, el ITAM ofrece estacionamiento por solo 50 MXN al día.
+
+**Te esperamos!**
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3764.572418388279!2d-99.20230928879631!3d19.344351843416934!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d200057116a1d1%3A0xeb89056e16e93b4f!2sInstituto%20Tecnol%C3%B3gico%20Aut%C3%B3nomo%20de%20M%C3%A9xico!5e0!3m2!1sen!2sus!4v1720803478790!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
