@@ -9,35 +9,32 @@ permalink: /schedule/
     <img src="https://github.com/itam-sports-analytics-conference/itam-sports-analytics-conference.github.io/blob/main/docs/images/official_logo_vectores.png?raw=true" alt="Logo" width="60%" height="60%">
     <br>
 </div>
-The 2nd edition of the ITAM Sports Analytics Conference, will take place on **November 6th and 7th at the ITAM Río Hondo campus in Mexico City**. 
+La 2ª edición de la ITAM Sports Analytics Conference se llevará a cabo el 6 y 7 de noviembre en el campus Río Hondo del ITAM en la Ciudad de México.
 
-The event kicks off on November 6th at around 4 pm with a networking cocktail, featuring presentations from our soccer hackathon finalists. The main conference will be held the next day, with talks and sessions running from 10 am to 5 pm.
+El evento comenzará el 6 de noviembre alrededor de las 4 pm con un cóctel de networking, donde se presentarán las propuestas finalistas de nuestro hackathon de fútbol. La conferencia principal se llevará a cabo al día siguiente, con charlas y sesiones programadas desde las 10 am hasta las 5 pm.
 
 <hr>
 
-## Day 1
+## Dia 1
 
-- **03:00 PM** - Welcoming
-- **04:00 PM** - Opening Keynote
-- **04:15 PM** - Hackathon Presentations
-- **05:00 PM** - Networking Cocktail
+- **03:00 PM** - Bienvenida
+- **04:00 PM** - Opening Keynote: TBD
+- **04:15 PM** - Hackathon Final Three
+- **05:00 PM** - Coctel de Networking
 
 ## Day 2
 
-- **09:00 AM** - Doors Open
-- **10:00 AM** - Opening Ceremony
-- **10:30 AM** - Keynote Session
-- **11:30 PM** - Panel 1
-- **12:00 PM** - Panel 2
-- **12:30 PM** - Coffee Break
-- **01:00 PM** - Fireside Chat 1
-- **01:30 PM** - Panel 3
-- **01:30 PM** - Fireside Chat 2
-- **02:00 PM** - Lunch
-- **02:30 PM** - Panel 4
-- **03:00 PM** - Fireside Chat 3
-- **04:00 PM** - Hackathon Winner Announcement
-- **05:00 PM** - Farewell
+- **09:45 AM** - Apertura de Puertas
+- **10:00 AM** - Introduccion a la analítica deportiva - Esteban Navarro
+- **11:00 AM** - Nuevas Audiencias: La evolucion del marketing y el branding deportivo en LATAM - Fernando Jaramillo | Horacio de la Vega | Juan Carlos Hernandez
+- **11:30 AM** - Building a Data Driven Culture in an organization- Sarah Rudd
+- **12:00 PM** - BREAK
+- **12:30 PM** - Estrategias Basadas en Datos para Crear Nuevas Fuentes de Ingresos en los equipos - Tatiana Fontalvo
+- **01:30 PM** - Instant Insight: How do teams and coaches integrate real-time data into their decision-making processes during games? - Pascal Bauer
+- **02:00 PM** - LUNCH
+- **03:00 PM** - How Can Sports Organizations Foster Sustainable Pathways for Women's Leadership and Participation? - Hannah Gaudet | Ivana Seric | Chelsea Disselldorp
+- **04:00 PM** - Transformando Data en Goles: Casos de Éxito de la Analítica Deportiva en el Fútbol Latinoamericano - Rodrigo Piccioni | Enrique Chazaro | Kevin Jeffries
+
 <br>
 
 ## Our Location

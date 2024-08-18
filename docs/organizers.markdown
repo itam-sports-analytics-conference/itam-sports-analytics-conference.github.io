@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Organizers"
+title: "Organizadores"
 permalink: /organizers/
 ---
 
@@ -12,9 +12,9 @@ permalink: /organizers/
 <br>
 <br>
 
-## Contact
+## Contacto
 ---
-Feel free to reach out for any questions.
+Contactanos para cualquier duda.
 
 #### Pablo Lopez Landeros
 - Email: [plopez@zelusanalytics.com](plopez@zelusanalytics.com)
