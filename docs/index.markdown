@@ -27,7 +27,6 @@ Nuestra misión es incentivar la innovación y fomentar la colaboración dentro 
 Solo contamos con 300 lugares. 
 <a
   href="https://lu.ma/event/evt-r7i8bq7vzesum3e"
-  class="luma-checkout--button"
   data-luma-action="checkout"
   data-luma-event-id="evt-r7i8bq7vzesum3e"
 >

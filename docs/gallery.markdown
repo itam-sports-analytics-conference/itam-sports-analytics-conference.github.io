@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Gallery"
+title: "Galería"
 ---
-Our first edition welcomed **120 in-person attendees** and an additional 60 participants online 👏👏👏
+Nuestra primera edición recibió a **120 asistentes en persona** y 60 participantes adicionales en línea 👏👏👏
 
-The positive feedback and enthusiastic participation in last year's event highlighted our conference's impact, establishing it as a key event in the Mexican sports analytics community. 
+Los comentarios positivos y la participación entusiasta en el evento del año pasado destacaron el impacto de nuestra conferencia, estableciéndola como un evento clave en la comunidad de análisis deportivo en México.
 
-Enjoy some of last year's pics! 🇲🇽
+¡Disfruta algunas fotos del año pasado! 🇲🇽
 <hr>
 <br>
 <div style="text-align: center;">
@@ -22,7 +22,7 @@ Enjoy some of last year's pics! 🇲🇽
 <br>
 <hr>
 <br>
- Keynote speakers **Esteban Navarro** and **Javier Fernandez** in action 🇲🇽🤝🇪🇸
+ Los ponentes principales **Esteban Navarro** y **Javier Fernández** en acción 🇲🇽🤝🇪🇸
 <div style="text-align: center;">
   <img src="/images/image_2.JPG" alt="Logo" width="100%" height="100%">
 </div>
@@ -38,7 +38,7 @@ Enjoy some of last year's pics! 🇲🇽
 
 ---
 <br>
-Our organizers, **Pablo (Zelus Analytics)** and **Santiago (Penta Consulting Group)** + Data Science Undergraduate Program Director, Fernando Esponda, welcoming the students 📊
+Nuestros organizadores, ** Pablo (Zelus Analytics)** y **Santiago (Penta Consulting Group)** + el Director del Programa de Licenciatura en Ciencia de Datos, Fernando Esponda, dando la bienvenida a los estudiantes 📊
 <div style="text-align: center;">
   <img src="/images/image_1.JPG" alt="Logo" width="100%" height="100%">
 </div>
@@ -47,7 +47,7 @@ Our organizers, **Pablo (Zelus Analytics)** and **Santiago (Penta Consulting Gro
 ---
 
 <br>
-**Enrique Chazaro's** masterclass ⚽ 🧑‍🏫
+La clase magistral de **Enrique Cházaro** ⚽ 🧑‍🏫
 <div style="text-align: center;">
   <img src="/images/image_4.JPG" alt="Logo" width="100%" height="100%">
 </div>
