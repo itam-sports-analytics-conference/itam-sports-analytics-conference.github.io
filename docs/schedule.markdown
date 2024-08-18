@@ -22,18 +22,23 @@ El evento comenzará el 6 de noviembre alrededor de las 4 pm con un cóctel de n
 - **04:15 PM** - Hackathon Final Three
 - **05:00 PM** - Coctel de Networking
 
+## Dia 2: CONFERENCIA PRINCIPAL 
+
 ## Day 2
 
- **09:45 AM** - Apertura de Puertas |
- **10:00 AM** - Introduccion a la analítica deportiva | Esteban Navarro
- **11:00 AM** - Nuevas Audiencias: La evolucion del marketing y el branding deportivo en LATAM - Fernando Jaramillo | Horacio de la Vega | Juan Carlos Hernandez
- **11:30 AM** - Building a Data Driven Culture in an organization | Sarah Rudd
- **12:00 PM** - BREAK |
- **12:30 PM** - Estrategias Basadas en Datos para Crear Nuevas Fuentes de Ingresos en los equipos | Tatiana Fontalvo | 
- **01:30 PM** - Instant Insight: How do teams and coaches integrate real-time data into their decision-making processes during games? | Pascal Bauer
- **02:00 PM** - LUNCH
- **03:00 PM** - How Can Sports Organizations Foster Sustainable Pathways for Women's Leadership and Participation? | Hannah Gaudet | Ivana Seric | Chelsea Disselldorp
-- **04:00 PM** - Transformando Data en Goles: Casos de Éxito de la Analítica Deportiva en el Fútbol Latinoamericano - Rodrigo Piccioni | Enrique Chazaro | Kevin Jeffries
+| **Hora**        | **Platica**                                                                                          | **Ponente(s)**                                          |
+|-----------------|--------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
+| **09:45 AM**    | Apertura de Puertas                                                                                     |                                                        |
+| **10:00 AM**    | Introducción a la analítica deportiva                                                                   | Esteban Navarro                                        |
+| **11:00 AM**    | Nuevas Audiencias: La evolución del marketing y el branding deportivo en LATAM                          | Fernando Jaramillo, Horacio de la Vega, Juan Carlos Hernandez |
+| **11:30 AM**    | Building a Data Driven Culture in an organization                                                       | Sarah Rudd                                             |
+| **12:00 PM**    | BREAK                                                                                                   |                                                        |
+| **12:30 PM**    | Estrategias Basadas en Datos para Crear Nuevas Fuentes de Ingresos en los equipos                       | Tatiana Fontalvo                                       |
+| **01:30 PM**    | Instant Insight: How do teams and coaches integrate real-time data into their decision-making processes during games? | Pascal Bauer                                           |
+| **02:00 PM**    | LUNCH                                                                                                   |                                                        |
+| **03:00 PM**    | How Can Sports Organizations Foster Sustainable Pathways for Women's Leadership and Participation?      | Hannah Gaudet, Ivana Seric, Chelsea Disselldorp        |
+| **04:00 PM**    | Transformando Data en Goles: Casos de Éxito de la Analítica Deportiva en el Fútbol Latinoamericano      | Rodrigo Piccioni, Enrique Cházaro, Kevin Jeffries      |
+
 
 <br>
 

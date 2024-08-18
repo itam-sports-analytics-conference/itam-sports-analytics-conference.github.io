@@ -38,7 +38,7 @@ Los comentarios positivos y la participación entusiasta en el evento del año p
 
 ---
 <br>
-Nuestros organizadores, ** Pablo (Zelus Analytics)** y **Santiago (Penta Consulting Group)** + el Director del Programa de Licenciatura en Ciencia de Datos, Fernando Esponda, dando la bienvenida a los estudiantes 📊
+Nuestros organizadores, **Pablo (Zelus Analytics)** y **Santiago (Penta Consulting Group)** + el Director del Programa de Licenciatura en Ciencia de Datos, Fernando Esponda, dando la bienvenida a los estudiantes 📊
 <div style="text-align: center;">
   <img src="/images/image_1.JPG" alt="Logo" width="100%" height="100%">
 </div>
