@@ -20,8 +20,6 @@ permalink: /hackathon/
   tabindex="0"
 ></iframe>
 
-# ¡Bienvenidos al Hackathon 2024!
-
 En este hackathon te sumergirás en el mundo del análisis de fútbol y explorarás formas de aportar valor a un equipo a través del análisis de datos. Se te proporcionarán datos de eventos de Statsbomb para todos los partidos de la Copa América y la Eurocopa 2024. El objetivo es desarrollar un Producto Mínimo Viable (MVP), una presentación, video, notebook, PDF, sitio web, app o cualquier otro tipo de entregable basado en datos que comunique de manera efectiva los resultados de un análisis fundamentado en evidencias, orientado a agregar valor (ya sea dentro o fuera del campo) a una organización de fútbol.
 
 Es crucial que las ideas presentadas sean prácticas y aplicables pero con buen rigor matemático en el fondo. 

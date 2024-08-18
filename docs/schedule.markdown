@@ -15,16 +15,18 @@ El evento comenzará el 6 de noviembre alrededor de las 4 pm con un cóctel de n
 
 <hr>
 
-## Dia 1
+## Dia 1: Final Three Hackathon + Coctel
+En este evento, los tres proyectos finalistas de nuestro hackathon tendrán la oportunidad de presentar en vivo sus soluciones. ¡No te pierdas la revelación del ganador, que será anunciada durante la conferencia al día siguiente!
 
-- **03:00 PM** - Bienvenida
-- **04:00 PM** - Opening Keynote: TBD
-- **04:15 PM** - Hackathon Final Three
-- **05:00 PM** - Coctel de Networking
+| **Hora**       | **Actividad**                     |
+|----------------|-----------------------------------|
+| **03:00 PM**   | Bienvenida                        |
+| **03:30 PM**   | Opening Keynote: TBD              |
+| **04:00 PM**   | Hackathon Final Three             |
+| **05:00 PM**   | Coctel de Networking              |
+
 
 ## Dia 2: CONFERENCIA PRINCIPAL 
-
-## Day 2
 
 | **Hora**        | **Platica**                                                                                          | **Ponente(s)**                                          |
 |-----------------|--------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
@@ -46,8 +48,5 @@ El evento comenzará el 6 de noviembre alrededor de las 4 pm con un cóctel de n
 ---
 
 El ITAM está ubicado en la parte sur de la ciudad y es fácilmente accesible en coche. Recomendamos usar Uber o conducir hasta el evento, ya que las opciones de transporte público pueden ser limitadas. Si decides conducir, el ITAM ofrece estacionamiento por solo 50 MXN al día.
-
-**¡Esperamos darte la bienvenida!**
-
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3764.572418388279!2d-99.20230928879631!3d19.344351843416934!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d200057116a1d1%3A0xeb89056e16e93b4f!2sInstituto%20Tecnol%C3%B3gico%20Aut%C3%B3nomo%20de%20M%C3%A9xico!5e0!3m2!1sen!2sus!4v1720803478790!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
