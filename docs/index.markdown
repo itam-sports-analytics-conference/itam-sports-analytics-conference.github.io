@@ -24,15 +24,17 @@ Nuestra misión es incentivar la innovación y fomentar la colaboración dentro 
 ---
 ¡Registros disponibles ahora!
 
-Solo contamos con 300 lugares. 
-<a
-  href="https://lu.ma/event/evt-r7i8bq7vzesum3e"
-  data-luma-action="checkout"
-  data-luma-event-id="evt-r7i8bq7vzesum3e"
->
-  Registrate para el evento
-</a>
+Solo contamos con 300 lugares presenciales. Registrate!
 
-<script id="luma-checkout" src="https://embed.lu.ma/checkout-button.js"></script>
+<iframe
+  src="https://lu.ma/embed/event/evt-nl6g0JJ73sWTTru/simple"
+  width="600"
+  height="450"
+  frameborder="0"
+  style="border: 1px solid #bfcbda88; border-radius: 4px;"
+  allowfullscreen=""
+  aria-hidden="false"
+  tabindex="0"
+></iframe>
 
-Para más información o patrocinio, contáctanos en [itamsportsanalytics@gmail.com](itamsportsanalytics@gmail.com).
+Para más información o cuestiones de patrocinio, contáctanos en [itamsportsanalytics@gmail.com](itamsportsanalytics@gmail.com).
