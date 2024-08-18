@@ -8,23 +8,32 @@ title: ""
 
 <br>
 
-## About the Conference
+## Sobre la Conferencia
 ---
-The ITAM Sports Analytics Conference aspires to be the **foremost sports analytics event in Latin America**, pioneering innovation, insights, and unparalleled networking opportunities in the region.
+La ITAM Sports Analytics Conference aspira a ser **la conferencia de analítica deportiva más importante de América Latina**.
 
-Our mission is to ignite innovation and foster collaboration within sports analytics, creating a dynamic community of experts, students, and industry leaders to share insights, explore advancements, and **drive the future of sports** in Latin America.
+Nuestra misión es incentivar la innovación y fomentar la colaboración dentro del análisis deportivo, creando una comunidad dinámica de expertos, estudiantes y líderes de la industria para compartir ideas, explorar avances e **impulsar el futuro del deporte** en Latinoamérica.
 
-**We are excited to welcome and collaborate with elite organizations from around the globe.** 
+**Estamos emocionados de dar la bienvenida y colaborar con organizaciones élite de todo el mundo.**
 
 <div style="text-align: center;">
   <img src="/images/partners.jpeg" alt="Logo" width="100%" height="100%">
 </div>
 
- 
-## Registration
+## Registro
 ---
-Tickets coming soon!
+¡Registros disponibles ahora!
 
-For more information or sponsorships, contact us at [itamsportsanalytics@gmail.com](itamsportsanalytics@gmail.com).
+Solo contamos con 300 lugares. 
+<a
+  href="https://lu.ma/event/evt-r7i8bq7vzesum3e"
+  class="luma-checkout--button"
+  data-luma-action="checkout"
+  data-luma-event-id="evt-r7i8bq7vzesum3e"
+>
+  Registrate para el evento
+</a>
 
+<script id="luma-checkout" src="https://embed.lu.ma/checkout-button.js"></script>
 
+Para más información o patrocinio, contáctanos en [itamsportsanalytics@gmail.com](itamsportsanalytics@gmail.com).

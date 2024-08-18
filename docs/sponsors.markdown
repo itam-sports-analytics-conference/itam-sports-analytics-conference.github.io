@@ -1,25 +1,26 @@
 ---
 layout: page
-title: "Sponsors"
-permalink: /sponsors/
+title: "Patrocinadores"
+permalink: /patrocinadores/
 ---
-Since this event is a **non-profit** event, we are actively looking for sponsors to help us further develop the conference and our hackathon.
 
-By sponsoring the ITAM Sports Analytics Conference, you are not only supporting a leading event but also contributing to the growth and development of sports analytics in Latin America. Together, we can drive innovation, foster collaboration, and make a significant impact on the industry.
+Dado que este es un evento **sin fines de lucro**, estamos buscando activamente patrocinadores que nos ayuden a seguir desarrollando la conferencia y nuestro hackathon.
 
-## Sponsorship Benefits
+Al patrocinar la ITAM Sports Analytics Conference, no solo estás apoyando un evento líder, sino que también estás contribuyendo al crecimiento y desarrollo del análisis deportivo en América Latina. Juntos, podemos impulsar la innovación, fomentar la colaboración y generar un impacto significativo en la industria.
+
+## Beneficios del Patrocinio
 ---
-- **Exclusive Branding Opportunities**: Feature your brand prominently on our website, promotional materials, and social media.
-- **Speaking Opportunities:** Showcase your thoughts by participating in keynote sessions, panels, and workshops.
-- **Exhibition Space:** Present your products and services to a captivated audience through dedicated exhibition spaces.
-- **Networking Events:** Access to VIP networking events, providing opportunities to connect with key stakeholders and potential partners.
-- **Custom Sponsorship Packages:** As a non-profit event, we are flexible and open to discussing tailored sponsorship packages to meet specific marketing and business goals.
+- **Oportunidades Exclusivas de Branding:** Muestra tu marca de manera destacada en nuestro sitio web, materiales promocionales y redes sociales.
+- **Oportunidades para Conferencias:** Comparte tus ideas participando en sesiones magistrales, paneles y talleres.
+- **Espacio de Exhibición:** Presenta tus productos y servicios a una audiencia cautivada a través de espacios de exhibición dedicados.
+- **Eventos de Networking:** Acceso a eventos VIP de networking, brindando oportunidades para conectar con actores clave y posibles socios.
+- **Paquetes de Patrocinio Personalizados:** Como evento sin fines de lucro, somos flexibles y estamos abiertos a discutir paquetes de patrocinio personalizados que cumplan con objetivos específicos de marketing y negocio.
 
-### Join Us in Shaping the Future of Sports Analytics
+### Únete a Nosotros para Dar Forma al Futuro del Análisis Deportivo
 ---
-We would be delighted to discuss sponsorship opportunities with you. For more information on sponsorship packages and how you can get involved, please contact us at:
+Estaríamos encantados de discutir oportunidades de patrocinio contigo. Para más información sobre los paquetes de patrocinio y cómo puedes involucrarte, por favor contáctanos a:
 
-- Email: [itamsportsanalytics@gmail.com](itamsportsanalytics@gmail.com)
+- Correo electrónico: [itamsportsanalytics@gmail.com](itamsportsanalytics@gmail.com)
 - IG: @itam_sportsanalytics
 - Twitter / X: [@ItamMoneyball](https://x.com/ItamMoneyball)
 - LinkedIn: [Itam Sports Analytics Conference](https://www.linkedin.com/company/itam-sa-conference/)
