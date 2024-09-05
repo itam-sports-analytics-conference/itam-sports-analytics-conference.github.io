@@ -22,10 +22,19 @@ permalink: /hackathon/
 
 En este hackathon te sumergirás en el mundo del análisis de fútbol y explorarás formas de aportar valor a un equipo a través del análisis de datos. Se te proporcionarán datos de eventos de Statsbomb para todos los partidos de la Copa América y la Eurocopa 2024. El objetivo es desarrollar un Producto Mínimo Viable (MVP), una presentación, video, notebook, PDF, sitio web, app o cualquier otro tipo de entregable basado en datos que comunique de manera efectiva los resultados de un análisis fundamentado en evidencias, orientado a agregar valor (ya sea dentro o fuera del campo) a una organización de fútbol.
 
-Es crucial que las ideas presentadas sean prácticas y aplicables pero con buen rigor matemático en el fondo. 
+Es crucial que las ideas presentadas sean prácticas y aplicables pero con buen rigor matemático en el fondo.
+
 
 
 ## Eligibilidad y Competencia 📜
+
+Para este año, se proponen los siguientes temas:
+1. **Sacrificios (tradeoffs):** El estilo de cada equipo busca ser fuerte en algunas facetas del juego y sacrifica otros aspectos. ¿Cómo mides estos sacrificios?¿Cómo encuentras el punto óptimo?
+2. **Sustitutos:** Los equipos buscan el momento óptimo para realizar susstituciones. ¿Cómo identificas el mejor momento para realizar un cambio?
+3. **Valuación de acciones defensivas:** El análisis de la defensa de un equipo no se ha desarrollado tanto como la ofensiva. ¿Cómo se puede medir el impacto de las acciones defensivas?
+
+En caso de tener otra propuesta, puede mandar un correo a *itamsportsanalytics@gmail.com* para enviar el tema, ser revisado y aceptado.
+
 Se creará un canal de Slack que incluirá a todos los participantes y será el principal medio de comunicación. Cualquier duda técnica se podrá plantear ahí, y todos los anuncios se harán a través de este canal.
 
 ​Se ofrecerán sesiones quincenales para ayudar a los equipos a familiarizarse con los datos de eventos y las visualizaciones comunes.
@@ -69,11 +78,11 @@ Se ofrecerán sesiones quincenales para ayudar a los equipos a familiarizarse co
 
 
 ### Fechas Límite 🗓️
-- Registro Abierto - 15 de agosto de 2024 a 20 de octubre de 2024
+- Registro Abierto - 5 de septiembre de 2024 a 20 de octubre de 2024
 - Último Día para Entregar el Trabajo - 23 de octubre
 - Evaluación - 24 de octubre al 5 de noviembre
 - Presentaciones Final Three - 6 de noviembre
-- Anuncio de ganador - 7 de septiembre
+- Anuncio de ganador - 7 de noviembre
 
 ## Programas de mentoria 🧪
 Dado que este evento está dirigido a estudiantes y personas que buscan ingresar a la industria del deporte en América Latina, los estudiantes que presenten prueba de inscripción en una universidad latinoamericana recibirán la mentoría de un profesional de una organización deportiva que los guiará durante el hackathon.
@@ -125,18 +134,19 @@ Para acceder a los datos, ofrecemos varias opciones. ¡Elige la que mejor se ada
 Si tienes alguna pregunta, no dudes en comunicarte con cualquiera de los organizadores:
 
 > **Pablo López-Landeros**
-> 
+>
 > _Twitter:_ [@Landeros_p33](https://twitter.com/Landeros_p33)
 >
 > _Correo:_ [pablolopez2733@gmail.com](mailto:pablolopez2733@gmail.com)
 
 
 > **Santiago Fernandez**
-> 
+>
 > _LinkedIn:_ [@Landeros_p33](https://twitter.com/Landeros_p33)
 >
 > _Correo:_ [santiago.fernandezdelcastillo@gmail.com](mailto:santiago.fernandezdelcastillo@gmail.com)
 
 > **Ernesto Anaya**
+_Linkedin:_ [Ernesto Anaya Olivares](https://www.linkedin.com/in/ernesto-anaya-olivares/)
 >
 > _Correo:_ [ernesto.anaya.olivares@gmail.com](mailto:ernesto.anaya.olivares@gmail.com)

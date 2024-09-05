@@ -30,3 +30,4 @@ Contactanos para cualquier duda.
 
 #### Ernesto Anaya Olivares
 - Email: [ernesto.anaya.olivares@gmail.com](ernesto.anaya.olivares@gmail.com)
+- Linkedin: [Ernesto Anaya Olivares](https://www.linkedin.com/in/ernesto-anaya-olivares/)
