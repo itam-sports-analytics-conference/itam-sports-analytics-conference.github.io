@@ -27,18 +27,19 @@ El evento comenzará el 6 de noviembre alrededor de las 3 pm con un cóctel de n
 
 ## Dia 2: CONFERENCIA PRINCIPAL 
 
-| **Hora**        | **Platica**                                                                                          | **Ponente(s)**                                          |
-|-----------------|--------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
-| **09:45 AM**    | Apertura de Puertas                                                                                     |                                                        |
-| **10:00 AM**    | Introducción a la analítica deportiva                                                                   | Esteban Navarro                                        |
-| **11:00 AM**    | Nuevas Audiencias: La evolución del marketing y el branding deportivo en LATAM                          | Fernando Jaramillo, Horacio de la Vega, Juan Carlos Hernandez |
-| **11:30 AM**    | Building a Data Driven Culture in an organization                                                       | Sarah Rudd                                             |
-| **12:00 PM**    | BREAK                                                                                                   |                                                        |
-| **12:30 PM**    | Estrategias Basadas en Datos para Crear Nuevas Fuentes de Ingresos en los equipos                       | Tatiana Fontalvo                                       |
-| **01:30 PM**    | Instant Insight: How do teams and coaches integrate real-time data into their decision-making processes during games? | Pascal Bauer                                           |
-| **02:00 PM**    | LUNCH                                                                                                   |                                                        |
-| **03:00 PM**    | How Can Sports Organizations Foster Sustainable Pathways for Women's Leadership and Participation?      | Hannah Gaudet, Ivana Seric, Chelsea Disselldorp        |
-| **04:00 PM**    | Transformando Data en Goles: Casos de Éxito de la Analítica Deportiva en el Fútbol Latinoamericano      | Rodrigo Piccioni, Enrique Cházaro, Kevin Jeffries      |
+| Hora           | Tipo            | Moderador              | SPEAKERS                                                                                                   | PLATICA/PANEL                                                                 |
+|----------------|-----------------|------------------------|------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| **9:45-10:00**     | Presentación     | Maestro de Ceremonia    | Pablo Landeros, Santiago Fernandez, Ernersto Anaya, Fernando Esponda                                        | Bienvenida                                                                     |
+| **10:00-10:45**    | Presentación     | Maestro de Ceremonia    | Esteban Navarro                                                                                            | Una Breve Introduccion a la Analitica Deportiva                                |
+| **11:00-11:30**    | Panel            | TBD                 | Fernando Jaramillo, Horacio de la Vega, Juan Carlos Hernandez                                               | Nuevas Audiencias: La evolución del marketing y el branding deportivo en LATAM |
+| **11:30-12:00**    | Presentación     | Maestro de Ceremonia    | Sarah Rudd                                                                                                 | Creando una cultura de datos ganadora en una organización deportiva            |
+| **12:00-12:15**    | -                | -                      |                                                                                                            | BREAK                                                                          |
+| **12:30-13:15**   | Panel            | TBD                 | Oton Díaz, Quentin Pacquelier, Tatiana Fontalvo                                                    | Estrategias Basadas en Datos para Crear Nuevas Fuentes de Ingresos en los equipos|
+| **13:30-14:00**    | Fireside Chat    | Pablo Landeros          | Pascal Bauer                                                                                               | Perspectiva Instantánea con IA: ¿Cómo integran los equipos y entrenadores los datos en tiempo real en sus procesos de toma de decisiones durante los partidos? |
+| **14:45-15:15**    | -                | -                      |                                                                                                            | NETWORKING LUNCH                                                              |
+| **15:15-16:00**    | Panel            | Sarah Rudd             | Hannah Gaudet, Ivana Seric, Chelsea Disseldorp                                                              | ¿Cómo pueden los equipos abrir nuevas oportunidades para la participación de mujeres en el deporte?                  |
+| **16:00-17:00**    | Panel            | Santiago Fernandez     | Mauricio Ucros, Rodrigo Piccioni, Enrique Chazaro, Kevin Jeffries                                           | Transformando Data en Goles: Casos de Éxito de la Analítica Deportiva en el Fútbol Latinoamericano                  |
+
 
 
 <br>

@@ -5,11 +5,10 @@ permalink: /hackathon/
 ---
 <hr>
 <div style="text-align: center;">
- <h3>Bienvenidos al ITAM Sports Analytics Hackathon!</h3>
- <h3>Registrate Aqui 👇</h3>
-</div>
-
-<iframe
+ <h3>Bienvenidos a la edición 2024 del ITAM Sports Analytics Hackathon!</h3>
+ <h4>👇 Registrate Aqui 👇</h4>
+ <br>
+ <iframe
   src="https://lu.ma/embed/event/evt-YhP9r49fC1Tx75t/simple"
   width="600"
   height="450"
@@ -19,25 +18,36 @@ permalink: /hackathon/
   aria-hidden="false"
   tabindex="0"
 ></iframe>
+</div>
+<hr>
+<br>
+
+## Resumen
 
 En este hackathon te sumergirás en el mundo del análisis de fútbol y explorarás formas de aportar valor a un equipo a través del análisis de datos. Se te proporcionarán datos de eventos de Statsbomb para todos los partidos de la Copa América y la Eurocopa 2024. El objetivo es desarrollar un Producto Mínimo Viable (MVP), una presentación, video, notebook, PDF, sitio web, app o cualquier otro tipo de entregable basado en datos que comunique de manera efectiva los resultados de un análisis fundamentado en evidencias, orientado a agregar valor (ya sea dentro o fuera del campo) a una organización de fútbol.
 
 Es crucial que las ideas presentadas sean prácticas y aplicables pero con buen rigor matemático en el fondo.
 
+### Tematica 2024 ⚽ 
 
+>Tu desafío es presentar un proyecto en forma de un prototipo de aplicación funcional, entregable, reporte, video, notebook o cualquier entregable orientado a hacer una recomendación para directivos o el cuerpo técnico de un club de fútbol, utilizando los datos de STATSBOMB de la [Copa América 2024 y Euro 2024](https://github.com/statsbomb/StatsBombR) que puedes complementar con cualquier fuente de datos **PÚBLICA**.
 
-## Eligibilidad y Competencia 📜
-
-Para este año, se proponen los siguientes temas:
+Algunos posibles temas podrían ser:
 1. **Sacrificios (tradeoffs):** El estilo de cada equipo busca ser fuerte en algunas facetas del juego y sacrifica otros aspectos. ¿Cómo mides estos sacrificios?¿Cómo encuentras el punto óptimo?
 2. **Sustitutos:** Los equipos buscan el momento óptimo para realizar susstituciones. ¿Cómo identificas el mejor momento para realizar un cambio?
 3. **Valuación de acciones defensivas:** El análisis de la defensa de un equipo no se ha desarrollado tanto como la ofensiva. ¿Cómo se puede medir el impacto de las acciones defensivas?
 
 En caso de tener otra propuesta, puede mandar un correo a *itamsportsanalytics@gmail.com* para enviar el tema, ser revisado y aceptado.
 
-Se creará un canal de Slack que incluirá a todos los participantes y será el principal medio de comunicación. Cualquier duda técnica se podrá plantear ahí, y todos los anuncios se harán a través de este canal.
+Adicional a esto, crearemos:
 
-​Se ofrecerán sesiones quincenales para ayudar a los equipos a familiarizarse con los datos de eventos y las visualizaciones comunes.
+- [**Un canal de Slack**](https://join.slack.com/t/aztecdatasummit/shared_invite/zt-1vvbzqi75-4XKi2CkuK09z2pivG_PGnw) que incluirá a todos los participantes y será el principal medio de comunicación. Cualquier duda técnica se podrá plantear ahí, y todos los anuncios se harán a través de este canal.
+
+- ​Se ofrecerán sesiones quincenales para ayudar a los equipos a familiarizarse con los datos de eventos y las visualizaciones comunes.
+
+- Habrá canales exclusivamente dedicados a networking y oportunidades de trabajo.
+
+### Elegibilidad 🧪
 Para participar en esta competencia, los integrantes deben cumplir con los siguientes criterios:
 
 - ​Los participantes no pueden haber trabajado, actualmente o en el pasado, para ninguna organización deportiva profesional.
@@ -84,7 +94,7 @@ Se ofrecerán sesiones quincenales para ayudar a los equipos a familiarizarse co
 - Presentaciones Final Three - 6 de noviembre
 - Anuncio de ganador - 7 de noviembre
 
-## Programas de mentoria 🧪
+### Programas de mentoria 👩‍🏫
 Dado que este evento está dirigido a estudiantes y personas que buscan ingresar a la industria del deporte en América Latina, los estudiantes que presenten prueba de inscripción en una universidad latinoamericana recibirán la mentoría de un profesional de una organización deportiva que los guiará durante el hackathon.
 
 Para aplicar a este programa, deberá enviarse una prueba de que todos los participantes del equipo son estudiantes de alguna institución de educación o universidad latinoamericana.
@@ -95,7 +105,7 @@ Para aplicar:
 3. En el correo incluye el nombre de tu equipo, los participantes y sus pruebas de pertenencia a la institución.
 4. En un tiempo de 3 a 5 días hábiles se te asignará un mentor al que podrás contactar mediante nuestro canal oficial de Slack.
 
-## Registro 💻
+### Registro 💻
 <iframe
   src="https://lu.ma/embed/event/evt-YhP9r49fC1Tx75t/simple"
   width="600"
@@ -106,23 +116,14 @@ Para aplicar:
   aria-hidden="false"
   tabindex="0"
 ></iframe>
+<br>
 
-## ¡Únete al canal de Slack! 🎉
+### ¡Únete al canal de Slack! 🎉
 Se recomienda encarecidamente a los participantes [unirse al canal oficial de Slack](https://join.slack.com/t/aztecdatasummit/shared_invite/zt-1vvbzqi75-4XKi2CkuK09z2pivG_PGnw), donde compartiremos noticias y actualizaciones, así como oportunidades de networking y mentoría.
 
-## Enlaces al Conjunto de Datos 🔗
-Para acceder a los datos, ofrecemos varias opciones. ¡Elige la que mejor se adapte a tu flujo de trabajo!
+### Empieza aquí 💣
+Estos enlaces te pueden ser muy útiles para familiarizarte con los datos utilizados en esta competencia.
 
-1. [Python Notebook](https://colab.research.google.com/drive/173hzs8T9Ba5JNZN9meJPp19WBPE-Ei3Y?usp=sharing): Puedes copiar el notebook en tu propia cuenta de Google para ejecutar/editar los códigos.
-2. [Descarga en R](https://pablolopez2733.github.io/Aztec-Data-Summit/docs/r_ins.html): Consulta nuestro tutorial sobre cómo descargar datos desde la biblioteca `StatsBombR`.
-3. [Google Drive](https://pablolopez2733.github.io/Quarto-Tutorial/Gcion_rep.html): Descarga los datos en archivos zip almacenados en una carpeta de Google Drive.
-4. [Github de Statsbomb](https://github.com/statsbomb): Conéctate y descarga el conjunto de datos directamente a través de la API oficial de Statsbomb.
-
-## Documentación Oficial de Statsbomb 💣
-- [Accediendo y trabajando con datos de Statsbomb en R](https://statsbomb.com/wp-content/uploads/2022/08/Working-with-R.pdf)
-- [Documentación de Statsbombpy](https://github.com/statsbomb/statsbombpy)
-
-#### Conociendo los Datos
 - [Open Data Competitions v2.0.0.pdf](https://github.com/statsbomb/open-data/blob/master/doc/Open%20Data%20Competitions%20v2.0.0.pdf) - Cubre los objetos contenidos dentro de la información de competiciones (FreeCompetitions()).
 - [Open Data Matches v3.0.0.pdf](https://github.com/statsbomb/open-data/blob/master/doc/Open%20Data%20Matches%20v3.0.0.pdf) - Describe la información de los partidos (FreeMatches()).
 - [Open Data Lineups v2.0.0.pdf](https://github.com/statsbomb/open-data/blob/master/doc/Open%20Data%20Lineups%20v2.0.0.pdf) - Describe la estructura de la información sobre alineaciones (getlineupsFree()).
