@@ -3,7 +3,7 @@ layout: home
 title: ""
 ---
 <div style="text-align: center;">
-  <img src="/images/landing.png" alt="Logo" width="100%" height="100%">
+  <img src="/images/header.png" alt="Logo" width="100%" height="100%">
 </div>
 
 <br>
@@ -17,7 +17,7 @@ Nuestra misión es incentivar la innovación y fomentar la colaboración dentro 
 **Estamos emocionados de dar la bienvenida y colaborar con organizaciones élite de todo el mundo.**
 
 <div style="text-align: center;">
-  <img src="/images/partners.jpeg" alt="Logo" width="100%" height="100%">
+  <img src="/images/partners.png" alt="Logo" width="85%" height="85%">
 </div>
 
 ## Registro
