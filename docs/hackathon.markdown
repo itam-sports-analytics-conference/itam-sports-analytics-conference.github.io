@@ -124,10 +124,8 @@ Se recomienda encarecidamente a los participantes [unirse al canal oficial de Sl
 ### Empieza aquí 💣
 Estos enlaces te pueden ser muy útiles para familiarizarte con los datos utilizados en esta competencia.
 
-- [Open Data Competitions v2.0.0.pdf](https://github.com/statsbomb/open-data/blob/master/doc/Open%20Data%20Competitions%20v2.0.0.pdf) - Cubre los objetos contenidos dentro de la información de competiciones (FreeCompetitions()).
-- [Open Data Matches v3.0.0.pdf](https://github.com/statsbomb/open-data/blob/master/doc/Open%20Data%20Matches%20v3.0.0.pdf) - Describe la información de los partidos (FreeMatches()).
-- [Open Data Lineups v2.0.0.pdf](https://github.com/statsbomb/open-data/blob/master/doc/Open%20Data%20Lineups%20v2.0.0.pdf) - Describe la estructura de la información sobre alineaciones (getlineupsFree()).
-- [Open Data Events v4.0.0](https://github.com/statsbomb/open-data/blob/master/doc/Open%20Data%20Events%20v4.0.0.pdf) - Explica el significado de los nombres de las columnas dentro de los datos de eventos.
+**[Descarga los datos:](https://github.com/statsbomb/StatsBombR)**
+
 - [Especificación de Datos de Eventos de StatsBomb v1.1](https://github.com/statsbomb/open-data/blob/master/doc/StatsBomb%20Open%20Data%20Specification%20v1.1.pdf) - Desglose completo de todos los eventos dentro de los datos.
 
 
