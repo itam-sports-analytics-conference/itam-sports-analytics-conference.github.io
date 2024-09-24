@@ -61,7 +61,6 @@ permalink: /organizers/
   <div style="flex: 2;">
     <h2 style="color: #f58220; margin-bottom: 10px;">ERNESTO ANAYA OLIVARES</h2>
     <ul style="list-style: none; padding: 0; line-height: 1.8;">
-      <li><strong>- Científico de Datos en <span style="color: green;">Zelus Analytics</span>.</strong></li>
       <li><strong>- Experiencia en una de las startups de manufacturade mayor crecimiento en LATAM</strong></li>
       <li><strong>- Egresado del <span style="color: green;">ITAM</span> en ciencia de datos.</strong></li>
       <li><strong>- Trabaja para un equipo de primera división mexicana.</strong></li>
