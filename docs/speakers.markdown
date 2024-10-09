@@ -15,12 +15,13 @@ permalink: /speakers/
   </div>
 
   <!-- Tegan Bunsu Ashby -->
-  <div style="width: 23%; text-align: center; margin-bottom: 20px;">
+  <!--<div style="width: 23%; text-align: center; margin-bottom: 20px;">
     <img src="https://media.licdn.com/dms/image/v2/C5603AQHihaQWkCRVxQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1656134328074?e=1731542400&v=beta&t=ISQjQmugQ7qD2P-Y23Ul6XxHgCtN21m2T-MTCPJgnhI" alt="Tegan Bunsu Ashby" style="width: 100%; border-radius: 10px;">
     <div style="font-size: 18px; font-weight: bold; margin-top: 10px;">QUENTIN PACQUELIER</div>
     <div style="font-size: 14px; margin-top: 5px;">CHIEF MARKETING OFFICER</div>
     <div style="font-size: 14px; color: #34ac54;">Club America</div>
   </div>
+  -->
 
     <!-- Tegan Bunsu Ashby -->
   <div style="width: 23%; text-align: center; margin-bottom: 20px;">

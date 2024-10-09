@@ -139,13 +139,13 @@ Si tienes alguna pregunta, no dudes en comunicarte con cualquiera de los organiz
 > _Correo:_ [pablolopez2733@gmail.com](mailto:pablolopez2733@gmail.com)
 
 
-> **Santiago Fernandez**
+> **Santiago Fernandez del Castillo Sodi**
 >
-> _LinkedIn:_ [@Landeros_p33](https://twitter.com/Landeros_p33)
+> _LinkedIn:_ [Santiago Fernández del Castillo](https://www.linkedin.com/in/santiago-fern%C3%A1ndez-del-castillo-sodi-8471401b4/)
 >
 > _Correo:_ [santiago.fernandezdelcastillo@gmail.com](mailto:santiago.fernandezdelcastillo@gmail.com)
 
-> **Ernesto Anaya**
+> **Ernesto Anaya Olivares**
 _Linkedin:_ [Ernesto Anaya Olivares](https://www.linkedin.com/in/ernesto-anaya-olivares/)
 >
 > _Correo:_ [ernesto.anaya.olivares@gmail.com](mailto:ernesto.anaya.olivares@gmail.com)
