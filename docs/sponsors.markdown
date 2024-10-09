@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Patrocinadores"
-permalink: /patrocinadores/
+title: "Alianzas Estratpegicas"
+permalink: /alianzas_esratégicas/
 ---
 
 Dado que este es un evento **sin fines de lucro**, estamos buscando activamente patrocinadores que nos ayuden a seguir desarrollando la conferencia y nuestro hackathon.
