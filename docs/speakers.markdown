@@ -14,21 +14,20 @@ permalink: /speakers/
     <div style="font-size: 14px; color: #34ac54;">Fanki</div>
   </div>
 
-  <!-- Tegan Bunsu Ashby -->
-  <!--<div style="width: 23%; text-align: center; margin-bottom: 20px;">
-    <img src="https://media.licdn.com/dms/image/v2/C5603AQHihaQWkCRVxQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1656134328074?e=1731542400&v=beta&t=ISQjQmugQ7qD2P-Y23Ul6XxHgCtN21m2T-MTCPJgnhI" alt="Tegan Bunsu Ashby" style="width: 100%; border-radius: 10px;">
-    <div style="font-size: 18px; font-weight: bold; margin-top: 10px;">QUENTIN PACQUELIER</div>
-    <div style="font-size: 14px; margin-top: 5px;">CHIEF MARKETING OFFICER</div>
-    <div style="font-size: 14px; color: #34ac54;">Club America</div>
-  </div>
-  -->
-
     <!-- Tegan Bunsu Ashby -->
   <div style="width: 23%; text-align: center; margin-bottom: 20px;">
     <img src="https://media.licdn.com/dms/image/v2/D4E03AQHiOyq21ia0nQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725327864550?e=1731542400&v=beta&t=yJjceqjG1FGQZlAqdYELuBmT7sRU5fgoWQC1JmtHjXE" alt="Tegan Bunsu Ashby" style="width: 100%; border-radius: 10px;">
     <div style="font-size: 18px; font-weight: bold; margin-top: 10px;">OTHON DIAZ</div>
     <div style="font-size: 14px; margin-top: 5px;">PRESIDENTE</div>
     <div style="font-size: 14px; color: #34ac54;">Diablos Rojos</div>
+  </div>
+
+    <!-- Tegan Bunsu Ashby -->
+  <div style="width: 23%; text-align: center; margin-bottom: 20px;">
+    <img src="https://media.licdn.com/dms/image/v2/D4D03AQEQfqxGQWMCWw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1664295937513?e=1731542400&v=beta&t=LRwjf55dmIUUE8X_eee0mXMyqc-eZflDn13OoSnnZhk" alt="Tegan Bunsu Ashby" style="width: 100%; border-radius: 10px;">
+    <div style="font-size: 18px; font-weight: bold; margin-top: 10px;">JUAN CARLOS HERNANDEZ</div>
+    <div style="font-size: 14px; margin-top: 5px;">GENERAL MANAGER</div>
+    <div style="font-size: 14px; color: #34ac54;">Kings League Americas</div>
   </div>
 
 </div>
@@ -135,14 +134,6 @@ permalink: /speakers/
     <div style="font-size: 14px; color: #34ac54;">Liga Dimayor</div>
   </div>
 
-  <!-- Tegan Bunsu Ashby -->
-  <div style="width: 23%; text-align: center; margin-bottom: 20px;">
-    <img src="https://media.licdn.com/dms/image/v2/D4D03AQEQfqxGQWMCWw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1664295937513?e=1731542400&v=beta&t=LRwjf55dmIUUE8X_eee0mXMyqc-eZflDn13OoSnnZhk" alt="Tegan Bunsu Ashby" style="width: 100%; border-radius: 10px;">
-    <div style="font-size: 18px; font-weight: bold; margin-top: 10px;">JUAN CARLOS HERNANDEZ</div>
-    <div style="font-size: 14px; margin-top: 5px;">GENERAL MANAGER</div>
-    <div style="font-size: 14px; color: #34ac54;">Kings League Americas</div>
-  </div>
-
     <!-- Tegan Bunsu Ashby -->
   <div style="width: 23%; text-align: center; margin-bottom: 20px;">
     <img src="https://media.licdn.com/dms/image/v2/D5603AQH21em8nvghcg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1676411988969?e=1731542400&v=beta&t=9roN3gnNSN2VPxLkQAkkHV--Cu_vXe1BPgY1Mp8eu0c" alt="Tegan Bunsu Ashby" style="width: 100%; border-radius: 10px;">
@@ -150,6 +141,15 @@ permalink: /speakers/
     <div style="font-size: 14px; margin-top: 5px;">PRESIDENTE</div>
     <div style="font-size: 14px; color: #34ac54;">Liga Mexicana de Beisbol</div>
   </div>
+
+    <!-- Tegan Bunsu Ashby -->
+  <!--<div style="width: 23%; text-align: center; margin-bottom: 20px;">
+    <img src="https://media.licdn.com/dms/image/v2/C5603AQHihaQWkCRVxQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1656134328074?e=1731542400&v=beta&t=ISQjQmugQ7qD2P-Y23Ul6XxHgCtN21m2T-MTCPJgnhI" alt="Tegan Bunsu Ashby" style="width: 100%; border-radius: 10px;">
+    <div style="font-size: 18px; font-weight: bold; margin-top: 10px;">QUENTIN PACQUELIER</div>
+    <div style="font-size: 14px; margin-top: 5px;">CHIEF MARKETING OFFICER</div>
+    <div style="font-size: 14px; color: #34ac54;">Club America</div>
+  </div>
+  -->
 
 </div>
 
