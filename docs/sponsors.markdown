@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Alianzas Estratpegicas"
+title: "Alianzas Estratégicas"
 permalink: /alianzas_esratégicas/
 ---
 
