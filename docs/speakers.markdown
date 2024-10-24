@@ -49,7 +49,7 @@ permalink: /speakers/
   <div style="width: 23%; text-align: center; margin-bottom: 20px;">
     <img src="https://media.licdn.com/dms/image/v2/C5603AQHDKOO9dDOLPQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1620593884285?e=1731542400&v=beta&t=JMCX7dfm0V5HnCsu5f4iVyK1t5lhV0xeCDCY_Yu0t58" alt="Melissa Boswell" style="width: 100%; border-radius: 10px;">
     <div style="font-size: 18px; font-weight: bold; margin-top: 10px;">ESTEBAN NAVARRO</div>
-    <div style="font-size: 14px; margin-top: 5px;">DIRECTOR DE PRODUCTO DE BEISBOL</div>
+    <div style="font-size: 14px; margin-top: 5px;">PRODUCT MANAGER TECNICO EN BEISBOL</div>
     <div style="font-size: 14px; color: #34ac54;">Zelus Analytics</div>
   </div>
 <div style="width: 23%; text-align: center; margin-bottom: 20px;">
@@ -75,7 +75,7 @@ permalink: /speakers/
   <div style="width: 23%; text-align: center; margin-bottom: 20px;">
     <img src="https://media.licdn.com/dms/image/v2/C5603AQEGBDkXxfcsVg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1632341401064?e=1731542400&v=beta&t=R0eM9OjxBFiT3P2HXUJB4NDmflkcHU_UkLoHD3-NXUA" alt="Melissa Boswell" style="width: 100%; border-radius: 10px;">
     <div style="font-size: 18px; font-weight: bold; margin-top: 10px;">IVANA<br>SERIC</div>
-    <div style="font-size: 14px; margin-top: 5px;">DIRECTORA DE PRODUCTO DE BALONCESTO</div>
+    <div style="font-size: 14px; margin-top: 5px;">SENIOR PRODUCT SCIENTIST DE BALONCESTO</div>
     <div style="font-size: 14px; color: #34ac54;">Zelus Analytics</div>
   </div>
 

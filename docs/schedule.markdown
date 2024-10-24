@@ -5,49 +5,50 @@ permalink: /schedule/
 ---
 <hr>
 
-<div style="text-align: center;">
-    <img src="https://github.com/itam-sports-analytics-conference/itam-sports-analytics-conference.github.io/blob/main/docs/images/official_logo_vectores.png?raw=true" alt="Logo" width="60%" height="60%">
-    <br>
-</div>
-La 2ª edición de la ITAM Sports Analytics Conference se llevará a cabo el **6 y 7 de noviembre** en el campus Río Hondo del ITAM en la Ciudad de México.
 
-El evento comenzará el 6 de noviembre alrededor de las 3 pm con un cóctel de networking, donde los tres proyectos finalistas de nuestro hackathon de futbol tendrán la oportunidad de presentar en vivo sus soluciones. La conferencia principal se llevará a cabo al día siguiente, con charlas y sesiones programadas desde las 10 am hasta las 5 pm.
+La 2ª edición de la ITAM Sports Analytics Conference se llevará a cabo el ** 7 de noviembre** en el campus Río Hondo del ITAM en la Ciudad de México.
+
+##### Apertura de puertas: 9:00 AM
+
 
 <hr>
 
-## Dia 1: Final Three Hackathon + Coctel
+## AGENDA:
 
-| **Hora**       | **Actividad**                     |
-|----------------|-----------------------------------|
-| **03:00 PM**   | Bienvenida                        |
-| **03:30 PM**   | Opening Keynote: TBD              |
-| **04:00 PM**   | Hackathon Final Three             |
-| **06:00 PM**   | Coctel de Networking              |
-
-
-## Dia 2: CONFERENCIA PRINCIPAL 
-
-| Hora           | Tipo            | Moderador              | SPEAKERS                                                                                                   | PLATICA/PANEL                                                                 |
-|----------------|-----------------|------------------------|------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| **9:45-10:00**     | Presentación     | Maestro de Ceremonia    | Pablo Landeros, Santiago Fernandez, Ernersto Anaya, Fernando Esponda                                        | Bienvenida                                                                     |
-| **10:00-10:45**    | Presentación     | Maestro de Ceremonia    | Esteban Navarro                                                                                            | Una Breve Introduccion a la Analitica Deportiva                                |
-| **11:00-11:30**    | Panel            | TBD                 | Fernando Jaramillo, Horacio de la Vega, Juan Carlos Hernandez                                               | Nuevas Audiencias: La evolución del marketing y el branding deportivo en LATAM |
-| **11:30-12:00**    | Presentación     | Maestro de Ceremonia    | Sarah Rudd                                                                                                 | Creando una cultura de datos ganadora en una organización deportiva            |
-| **12:00-12:15**    | -                | -                      |                                                                                                            | BREAK                                                                          |
-| **12:30-13:15**   | Panel            | TBD                 | Oton Díaz, Tatiana Fontalvo, Por Confirmar                                                    | Estrategias Basadas en Datos para Crear Nuevas Fuentes de Ingresos en los equipos|
-| **13:30-14:00**    | Fireside Chat    | Pablo Landeros          | Pascal Bauer                                                                                               | Perspectiva Instantánea con IA: ¿Cómo integran los equipos y entrenadores los datos en tiempo real en sus procesos de toma de decisiones durante los partidos? |
-| **14:45-15:15**    | -                | -                      |                                                                                                            | NETWORKING LUNCH                                                              |
-| **15:15-16:00**    | Panel            | Sarah Rudd             | Hannah Gaudet, Ivana Seric, Chelsea Disseldorp                                                              | ¿Cómo pueden los equipos abrir nuevas oportunidades para la participación de mujeres en el deporte?                  |
-| **16:00-17:00**    | Panel            | Santiago Fernandez     | Por Confirmar, Rodrigo Piccioni, Enrique Chazaro, Kevin Jeffries                                           | Transformando Data en Goles: Casos de Éxito de la Analítica Deportiva en el Fútbol Latinoamericano                  |
+| **Moderador**       | **SPEAKER 1**                          | **SPEAKER 2**                          | **SPEAKER 3**                        | **SPEAKER 4**                        | **Sport**         | **PLATICA/PANEL**                                                                                           |
+|---------------------|----------------------------------------|----------------------------------------|--------------------------------------|--------------------------------------|-------------------|-------------------------------------------------------------------------------------------------------------|
+| Pablo Landeros      | Santiago Fernandez (Penta)    | Ernesto Anaya (Penta)         | Esponda (Director Ciencia de Datos ITAM)             |                                      | Multisports       | Bienvenida                                                                                                   |
+| MC                  | Esteban Navarro (Zelus Analytics)       |                                        |                                      |                                      |                   | Una Breve Introduccion a la Analitica Deportiva                                                             |
+| Aldo Sales          |                                        | Horacio de la Vega (Playbook)    | Juan Carlos Hernandez (Kings League)|                                      | Kings League/Soccer | PANEL: Nuevas Audiencias: La evolucion del marketing y el branding deportivo en LATAM                         |
+| MC                  | Sarah Rudd (SRC FTBL)            |                                        |                                      |                                      | Multisports | Creando una cultura de datos ganadora en una organización deportiva                                          |
+| BREAK               |                                        |                                        |                                      |                                      |                   | -                                                                                                           |
+| Rodrigo Cobo        |                                        |                                        | Tatiana Fontalvo (FANKI)    |                                      | Multisports       | Estrategias Basadas en Datos para Crear Nuevas Fuentes de Ingresos en los equipos                             |
+| Pablo López         | FIRECHAT: Pascal Bauer (Universidad de Tuebingen)|                                        |                                      |                                      | Soccer/Football   | Perspectiva Instantánea con IA: ¿Cómo integran los equipos y entrenadores los datos en tiempo real?          |
+| LUNCH    |                                        |                                        |                                      |                                      |                   | -                                                                                                           |
+| Sarah Rudd (SRC FTBL)          | Hannah Gaudet (Zelus Analytics)        | Ivana Seric (Zelus Analytics)          | Chelsea Disseldorp (Chelsea Consulting Group) |                                      | Multisports       | PANEL: ¿Cómo pueden los equipos abrir nuevas oportunidades para la participación de mujeres en el deporte?   |
+| Santiago Fdz        | Simon Ferro (Liga DiMayor)          | Rodrigo Piccioni (Club Atletico Mineiro)     | Enrique Chazaro (Club America)    | Kevin Jeffries (Nice FC)     | Multisports       | Transformando Data en Goles: Casos de Éxito de la Analítica Deportiva en el Fútbol Latinoamericano           |
 
 
 
 <br>
 
-## Nuestra Ubicación
+
+
+## Opciones de Comida
 ---
 
-El ITAM está ubicado en la parte sur de la ciudad y es fácilmente accesible en coche. Recomendamos usar Uber o conducir hasta el evento, ya que las opciones de transporte público pueden ser limitadas. Si decides conducir, el ITAM ofrece estacionamiento por solo 50 MXN al día.
+- Cafetería ITAM
+- [Café Parabién](https://maps.app.goo.gl/f6UV8XaL8myg7Nis8)
+- [Tienda de Chente](https://maps.app.goo.gl/CFUP7nApMaLBwcN49)
+- [Jovitacos](https://maps.app.goo.gl/MasJg11kDWEoEpBr8)
+- [Pizzata](https://maps.app.goo.gl/crLatjG56r1tmpYd8)
+- [El Cactus](https://maps.app.goo.gl/dhHwNb4HWevEy7CH8)
+- [Coffee and People](https://maps.app.goo.gl/BazPh9S1XtMhnRSR7)
+- [Café Larin](https://maps.app.goo.gl/3aP56YrhY7F3z8z76)
+
+
+
+## Nuestra Ubicacion
 
 **Te esperamos!**
 
