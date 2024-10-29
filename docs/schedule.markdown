@@ -6,9 +6,9 @@ permalink: /schedule/
 <hr>
 
 
-La 2ª edición de la ITAM Sports Analytics Conference se llevará a cabo el ** 7 de noviembre** en el campus Río Hondo del ITAM en la Ciudad de México.
+La 2ª edición de la ITAM Sports Analytics Conference se llevará a cabo el **7 de noviembre** en el campus Río Hondo del ITAM en la Ciudad de México.
 
-##### Apertura de puertas: 9:00 AM
+### Apertura de puertas: 9:00 AM
 
 
 <hr>
@@ -18,15 +18,15 @@ La 2ª edición de la ITAM Sports Analytics Conference se llevará a cabo el ** 
 | Hora          | Moderador       | SPEAKER 1                        | SPEAKER 2                       | SPEAKER 3                        | SPEAKER 4                         | **PLATICA/PANEL**                                                                                                  | IDIOMA  |
 |---------------|-----------------|----------------------------------|---------------------------------|----------------------------------|-----------------------------------|---------------------------------------------------------------------------------------------------------------------|---------|
 | 9:45-10:00    |                 | Pablo Landeros  <br>(Zelus Analytics) | Santiago Fernandez  <br>(Penta)  | Ernesto Anaya  <br>(Penta)        | Fernando Esponda  <br>(ITAM)       | **Bienvenida**                                                                                                      | Español |
-| 10:00-10:45   |                 | Esteban Navarro  <br>(Zelus Analytics) |                                 |                                  |                                   | **Una Breve Introducción a la Analítica Deportiva**                                                                | Español |
-| 11:00-11:30   | Aldo Sales      | Nuño Pérez  <br>(Capitanes)      | Horacio de la Vega  <br>(LMB)    | Juan Carlos Hernandez  <br>(Kings League) | Tatiana Fontalvo  <br>(Fanki)      | **PANEL: Nuevas Audiencias: La evolución del marketing y el branding deportivo en LATAM**                          | Español |
-| 11:30-12:00   |                 | Sarah Rudd  <br>(SRC FTBL)       |                                 |                                  |                                   | **Creando una cultura de datos ganadora en un equipo de futbol**                                                   | Español |
-| 12:00-12:15   |                 | BREAK                            |                                 |                                  |                                   | **-**                                                                                                               | -       |
-| 12:30-13:15   |                 | Ana de Souza  <br>(FIFA)         |                                 |                                  |                                   | **Como Competir en la Copa Mundial Femenil cuando todas las posibilidades están en tu contra.**                    | Español |
+| 10:00-10:30   |                 | Esteban Navarro  <br>(Zelus Analytics) |                                 |                                  |                                   | **Una Breve Introducción a la Analítica Deportiva**                                                                | Español |
+| 10:30-11:15   | Aldo Sales      | Nuño Pérez  <br>(Capitanes)      | Horacio de la Vega  <br>(LMB)    | Juan Carlos Hernandez  <br>(Kings League) | Tatiana Fontalvo  <br>(Fanki)      | **PANEL: Nuevas Audiencias: La evolución del marketing y el branding deportivo en LATAM**                          | Español |
+| 11:15-11:45   |                 | Sarah Rudd  <br>(SRC FTBL)       |                                 |                                  |                                   | **Creando una cultura de datos ganadora en un equipo de futbol**                                                   | Español |
+| 11:45-12:00   |                 | BREAK                            |                                 |                                  |                                   | **-**                                                                                                               | -       |
+| 12:00-12:30   |                 | Ana de Souza  <br>(FIFA)         |                                 |                                  |                                   | **Como Competir en la Copa Mundial Femenil cuando todas las posibilidades están en tu contra.**                    | Español |
 | 13:30-14:00   | Pablo Landeros  | Pascal Bauer  <br>(Universidad de Tuebingen) |                         |                                  |                                   | **Perspectiva Instantánea con IA: ¿Cómo integran los equipos y entrenadores los datos en tiempo real en sus procesos de toma de decisiones durante los partidos?** | English |
-| 14:45-15:15   |                 | LUNCH                            |                                 |                                  |                                   | **-**                                                                                                               | -       |
-| 15:15-16:00   | Hannah Gaudet   | Sarah Rudd  <br>(SRC FTBL)       | Ivana Seric  <br>(Zelus Analytics) | Chelsea Disseldorp  <br>(Chelsea Consulting Group) |          | **The Gender Factor: Rethinking Sports Analytics Models for Men and Women**                                        | English |
-| 16:00-17:00   | Santiago Fdz    | Simon Ferro  <br>(Liga DiMayor)  | Enrique Chazaro  <br>(Club America) | Kevin Jeffries  <br>(Nice FC)     |                                   | **Transformando Data en Goles: Casos de Éxito de la Analítica Deportiva en el Fútbol Latinoamericano**             | English |
+| 12:30-13:00   |                 | LUNCH                            |                                 |                                  |                                   | **-**                                                                                                               | -       |
+| 13:00-14:00   | Hannah Gaudet   | Sarah Rudd  <br>(SRC FTBL)       | Ivana Seric  <br>(Zelus Analytics) | Chelsea Disseldorp  <br>(Chelsea Consulting Group) |          | **The Gender Factor: Rethinking Sports Analytics Models for Men and Women**                                        | English |
+| 14:00-15:00 pm   | Santiago Fdz    | Simon Ferro  <br>(Liga DiMayor)  | Enrique Chazaro  <br>(Club America) | Kevin Jeffries  <br>(Nice FC)     |                                   | **Transformando Data en Goles: Casos de Éxito de la Analítica Deportiva en el Fútbol Latinoamericano**             | English |
 
 
 <br>
