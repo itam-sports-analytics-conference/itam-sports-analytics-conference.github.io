@@ -15,17 +15,21 @@ La 2ª edición de la ITAM Sports Analytics Conference se llevará a cabo el **7
 
 ## AGENDA:
 
- 🗓 **ITAM Sports Analytics Conference Schedule**
+🗓 **ITAM Sports Analytics Conference Schedule**
 
 - **9:45-10:00**
   - **Welcome**
   - 🗣 **Speakers:** Pablo Landeros (Organizer), Santiago Fernandez (Organizer), Ernesto Anaya (Organizer), Fernando Esponda (ITAM)
   - **Language:** Español
 
+---
+
 - **10:00-10:45**
   - **Session:** Una Breve Introducción a la Analítica Deportiva
   - 🗣 **Speaker:** Esteban Navarro (Teamworks)
   - **Language:** Español
+
+---
 
 - **11:00-11:45**
   - **Panel:** Creación de nuevas fuentes de ingresos y adaptación de marcas a partir de soluciones basadas en datos
@@ -33,36 +37,52 @@ La 2ª edición de la ITAM Sports Analytics Conference se llevará a cabo el **7
   - 🗣 **Speakers:** Nuño Pérez (Capitanes), Horacio de la Vega (LMB), Juan Carlos Hernandez (Kings League), Tatiana Fontalvo (Fanki)
   - **Language:** Español
 
+---
+
 - **12:00-12:30**
   - **Session:** Creando una cultura de datos ganadora en una organización deportiva
   - 🗣 **Speaker:** Sarah Rudd (SRC FTBL)
   - **Language:** Español
 
+---
+
 - **12:30-12:45**
   - ☕ **COFFEE BREAK**
+
+---
 
 - **12:45-13:15**
   - **Session:** Como competir en la copa mundial de la FIFA cuando todas las posibilidades juegan en tu contra
   - 🗣 **Speaker:** Ana de Souza (FIFA)
   - **Language:** Español
 
+---
+
 - **13:15-13:45**
   - **Session:** Hackathon Elevator Pitches
   - **Language:** Español
+
+---
 
 - **13:45-14:30**
   - **Session:** Perspectiva Instantánea con IA: ¿Cómo integran los equipos y entrenadores los datos en tiempo real en sus procesos de toma de decisiones?
   - 🗣 **Speaker:** Pascal Bauer (University of Tubingen)
   - **Language:** English
 
+---
+
 - **14:30-15:00**
   - 🍽 **LUNCH**
+
+---
 
 - **15:15-15:45**
   - **Panel:** The Gender Factor: Rethinking Sports Analytics for Men and Women
   - 🗣 **Moderator:** Hannah Gaudet
   - 🗣 **Speakers:** Sarah Rudd (SRC FTBL), Ivana Seric (Teamworks), Chelsea Disseldorp (Chelsea Consulting Group)
   - **Language:** English
+
+---
 
 - **16:00-16:45**
   - **Panel:** Transformando Data en Goles: Casos de Éxito de la Analítica Deportiva en el Fútbol Latinoamericano
