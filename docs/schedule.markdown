@@ -53,7 +53,7 @@ La 2ª edición de la ITAM Sports Analytics Conference se llevará a cabo el **7
 
 - **12:45-13:15**
   - **Session:** Como competir en la copa mundial de la FIFA cuando todas las posibilidades juegan en tu contra
-  - 🗣 **Speaker:** Ana de Souza (FIFA)
+  - 🗣 **Speaker:** Ana de Souza (Ex- Selección de Jamaica)
   - **Language:** Español
 
 ---
@@ -66,7 +66,7 @@ La 2ª edición de la ITAM Sports Analytics Conference se llevará a cabo el **7
 
 - **13:45-14:30**
   - **Session:** Perspectiva Instantánea con IA: ¿Cómo integran los equipos y entrenadores los datos en tiempo real en sus procesos de toma de decisiones?
-  - 🗣 **Speaker:** Pascal Bauer (University of Tubingen)
+  - 🗣 **Speaker:** Pascal Bauer (Universidad de Saarland)
   - **Language:** English
 
 ---
